@@ -10,3 +10,7 @@ Automatic merge failed; fix conflicts and then commit the result.
 ## Simulasi masalah
 **Kasus 1:** Budi harus menggunakan git merge --abort <br>
 **Kasus 2:** Bukan melakukan kesalahan, lebih tepatnya, dua anggota tim mengubah bagian kode yang sama atau saling bertentangan
+
+## Anggota
+- Muhamad Jibrilian
+- Rifki Fauzi
